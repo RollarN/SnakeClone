@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f004a67d0286c64ba9bbc6195f1ff30, type: 3}
+  m_Name: Level1ConsumableSpawner 2
+  m_EditorClassIdentifier: 
+  spawnInterval: 7
+  objectToSpawn: {fileID: 3079123799080670375, guid: e32258fa4a259da4788f0e61c9a06853,
+    type: 3}
+  maxObjectSpawnCount: 10
+  consumableData: {fileID: 11400000, guid: 32f18b8ed70daf441b174d23ba9f53e2, type: 2}

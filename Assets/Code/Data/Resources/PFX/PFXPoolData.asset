@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc3aab70e7510a64a88d1dc18ac61ee8, type: 3}
+  m_Name: PFXPoolData
+  m_EditorClassIdentifier: 
+  stdPoolData:
+    pfxPrefab: {fileID: -67287425658876999, guid: 91a297c1b7166c345ab0453b4f8e81cb,
+      type: 3}
+    objectPoolSize: 3

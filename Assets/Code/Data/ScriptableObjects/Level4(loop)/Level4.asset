@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b16287ca80f02d349a1152a952c46d8a, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  levelGridData: {fileID: 11400000, guid: 7cde9a359d0071a4aa0dee3524e17ab4, type: 2}
+  snakeData: {fileID: 11400000, guid: 179cba824fe4fea4c98be5adbfe5b691, type: 2}
+  TimedSpawns:
+  - {fileID: 11400000, guid: 97d0afc1893a5e840b0cafc34b450ef1, type: 2}
+  - {fileID: 11400000, guid: d5631f9d1565e814bb9fced4d77c0672, type: 2}
+  BackgroundMusicSong: {fileID: 8300000, guid: bf1cec935facf0441b58c18dd419e379, type: 3}

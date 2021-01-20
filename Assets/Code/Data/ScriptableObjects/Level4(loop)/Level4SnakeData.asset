@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae3f50e4513c5ef459ebfd8992647844, type: 3}
+  m_Name: Level4SnakeData
+  m_EditorClassIdentifier: 
+  SnakeMovementsPerSecond: 10
+  bodyPartPrefab: {fileID: 8205939265339474331, guid: 7bccc7bab1378b64eb4d8b0c54cb8026,
+    type: 3}
+  SnakeHeadPrefab: {fileID: 1615014230389273788, guid: 54603e80d785da844acb84d35ac1f935,
+    type: 3}
